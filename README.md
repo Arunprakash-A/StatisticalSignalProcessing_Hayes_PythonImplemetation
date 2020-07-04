@@ -1,2 +1,3 @@
-# Statistical Signal Processing _Hayes_Python Implemetation
+# Statistical Signal Processing 
 This Repository contains Jupyter Notebooks that explains the fundamental concepts in Statistical Signal Processing. 
+
