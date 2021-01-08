@@ -1,7 +1,13 @@
 # Statistical Signal Processing 
 This Repository contains Jupyter Notebooks that explains the fundamental concepts in Statistical Signal Processing. 
+
+# Sample Outputs
+* Visualizing Distribution as Scatter Plot
 ![alt text](./Images/Sample.png)
+* Learning Parameter
 ![alt text](./Images/Sample2.png)
+* Approximation of Random Process by Prony Method
+!![alt text](./Images/Sample3.png)
 
 # List of Topics Covered
 
