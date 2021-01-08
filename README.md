@@ -7,7 +7,7 @@ This Repository contains Jupyter Notebooks that explains the fundamental concept
 * Learning Parameter
 ![alt text](./Images/Sample2.png)
 * Approximation of Random Process by Prony Method
-!![alt text](./Images/Sample3.png)
+!![alt text](./Images/sample3.png)
 
 # List of Topics Covered
 
